@@ -12,3 +12,6 @@ node_modules
 
 # Ignore backend .env file
 /backend/.env
+
+
+/frontend/.env
