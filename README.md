@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Spend Smart - Effortless Financial Management</h1>
 
-<img src="frontend/src/assets/dashboard.webp" />
+<img src="frontend/src/assets/dashboard.png" />
 
 <h2 align="center">
   <a href="https://spend-smart-dev.vercel.app">Explore the Project Live!</a>
@@ -50,7 +50,7 @@ Follow these steps to set up Spend Smart on your local machine:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/SaxenaShourya/spend-smart.git
+git clone https://github.com/Devendrakmodi
 ```
 
 ### Make the .env file in backend directory
