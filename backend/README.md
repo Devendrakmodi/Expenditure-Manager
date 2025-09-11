@@ -16,9 +16,6 @@ Follow these steps to set up the Spend Smart backend on your local machine:
 
 ### Clone the repository:
 
-```bash
-# git clone https://github.com/SaxenaShourya/spend-smart.git
-```
 
 ### Backend Setup
 
