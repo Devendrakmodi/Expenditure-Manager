@@ -5,9 +5,6 @@
 
 <img src="frontend/src/assets/dashboard.png" />
 
-<!-- <h2 align="center">
-  <a href="https://spend-smart-dev.vercel.app">Explore the Project Live!</a>
-</h2> -->
 
 <hr/>
 
